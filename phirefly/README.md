@@ -1,9 +1,11 @@
+# PHIREfly
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
 
+1.
 ```bash
 npm run dev
 # or
@@ -12,7 +14,10 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+3. Start up the OCRGPT repo, which will be deployed to port 5000: https://github.com/jakeg0615/OCRGPT
+4. Upload a file and watch it get summarized!
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
